@@ -45,13 +45,13 @@ body{
 
 .ellips img{
     object-fit: cover;
-    border-radius: 100px;
+    border-radius: 50%;
 }
 
 .thumbnail{
     width: 100px;
     height: 90px;
-    background-color: #333333;
+    background-color: #eeeeee;
     margin: 5px;
     float: left;
     object-fit: contain;
@@ -97,6 +97,16 @@ h4{
     font-family: roboto;
     margin: 0px;
     color: #888;
+}
+
+.hover-blue:hover{ 
+  background-color: #00A3FF;
+  opacity: 0.5;
+}
+
+.hover-black:hover{ 
+  background-color: #222222;
+  opacity: 0.5;
 }
 
 h5{
