@@ -144,7 +144,10 @@ p{
 input{
     width: 220px;
     border-radius: 5px;
+}
 
+.check{
+    max-width: 20px;
 }
 
 #kirim{
