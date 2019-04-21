@@ -43,7 +43,7 @@ body{
     margin: 50px 50px 30px 50px;
 }
 
-.ellips img{
+img{
     object-fit: cover;
     border-radius: 50%;
 }
